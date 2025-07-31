@@ -1,4 +1,4 @@
-# DAVSE 2차 
+# mcp architecture
 
 ## 목표
 ### AI Agent 에서 간단하게 MCP Server 를 연결할 수 있다. 
